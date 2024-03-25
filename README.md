@@ -28,25 +28,25 @@ $ manim -pqh filename.py
    
 ![](https://github.com/JuliaBriden/ManimTrajOpt/blob/master/media/gifs/IntroScene.gif)
 
-3. MPCPolytopesScene.py: Introduction to t-SNE as viewed through the lens of explicit MPC.
+2. MPCPolytopesScene.py: Introduction to t-SNE as viewed through the lens of explicit MPC.
 
 ![](https://github.com/JuliaBriden/ManimTrajOpt/blob/master/media/gifs/MPCPolytopesScene.gif)
 
-4. Motivation.py: Visualize the increasing number of constraints as the number of discretization nodes increases.
+3. Motivation.py: Visualize the increasing number of constraints as the number of discretization nodes increases.
 
 ![](https://github.com/JuliaBriden/ManimTrajOpt/blob/master/media/gifs/Motivation.gif)
 
-6. NN.py: Visualize a forward pass of a DNN and show the embedding space.
+4. NN.py: Visualize a forward pass of a DNN and show the embedding space.
 
 ![](https://github.com/JuliaBriden/ManimTrajOpt/blob/master/media/gifs/NN.gif)
 
-8. PrimalDualScene.py: Visualize converging to an optimal solution using an IPM solver.
+5. PrimalDualScene.py: Visualize converging to an optimal solution using an IPM solver.
 
 ![](https://github.com/JuliaBriden/ManimTrajOpt/blob/master/media/gifs/PrimalDualScene.gif)
 
 ## Citation
 
-If you found ManimTrajOpt useful please cite it below!
+If you found ManimTrajOpt useful, please cite it below!
 
 ```
 @misc{briden2024manimtrajopt,
